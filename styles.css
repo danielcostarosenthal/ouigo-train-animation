@@ -24,7 +24,6 @@
 	animation-duration: 3s, 10s;
 	animation-delay: 1s, 10s;
 	animation-fill-mode: forwards, forwards;
-	animation-iteration-count: infinite;
 }
 
 .train:hover {
